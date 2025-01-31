@@ -1,25 +1,25 @@
 <html>
 <head><title>System Monitoring Report</title></head>
 <body>
-<h1>System Monitoring Alert - 2025-01-30 16:09:52</h1>
-<h2>System Monitoring Report - 2025-01-30 16:09:52</h2>
+<h1>System Monitoring Alert - 2025-01-30 17:45:10</h1>
+<h2>System Monitoring Report - 2025-01-30 17:45:10</h2>
 <hr>
 <h3>Disk usage: 62%</h3>
 <p style='color:red;'>Disk usage exceeded 50%!</p>
-<p><strong>Current CPU usage:</strong> 0.6%</p>
+<p><strong>Current CPU usage:</strong> 1.1%</p>
 <h3>Memory usage</h3>
 <p><strong>Total memory:</strong> 15Gi</p>
-<p><strong>Used memory:</strong> 3.6Gi</p>
-<p><strong>Free memory:</strong> 9.0Gi</p>
+<p><strong>Used memory:</strong> 3.4Gi</p>
+<p><strong>Free memory:</strong> 8.9Gi</p>
 <h3>Top 5 Memory-Consuming Processes:</h3>
 <table border='1'>
 <tr><th>PID</th><th>User</th><th>% MEM</th><th>Command</th></tr>
 <tr><td>PID</td><td>USER</td><td>%MEM</td><td>COMMAND</td></tr>
-<tr><td>4066</td><td>youssef</td><td>2.4</td><td>/opt/google/chrome/chrome</td></tr>
+<tr><td>13502</td><td>youssef</td><td>3.4</td><td>--variations-seed-version=20250129-180207.876000</td></tr>
+<tr><td>9008</td><td>youssef</td><td>2.4</td><td>/opt/google/chrome/chrome</td></tr>
 <tr><td>2127</td><td>mysql</td><td>2.4</td><td>/usr/sbin/mysqld</td></tr>
-<tr><td>4326</td><td>youssef</td><td>2.3</td><td>--variations-seed-version=20250129-180207.876000</td></tr>
 <tr><td>1844</td><td>jenkins</td><td>1.8</td><td>--httpPort=8080</td></tr>
-<tr><td>4634</td><td>youssef</td><td>1.7</td><td>--variations-seed-version=20250129-180207.876000</td></tr>
+<tr><td>14052</td><td>youssef</td><td>1.4</td><td>--variations-seed-version=20250129-180207.876000</td></tr>
 </table>
 </body>
 </html>

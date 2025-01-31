@@ -18,4 +18,5 @@ This repository contains a shell script that monitors system resources such as d
    ```bash
    git clone https://github.com/your-username/system-monitoring-script.git
    cd system-monitoring-script
-![Screenshot](./output.pug)
+![System Monitoring Output](images/output.png)
+
